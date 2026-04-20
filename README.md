@@ -4,14 +4,13 @@
  I am extremely passionate about creating projects that help make life easier and more interesting! \
  Currently still learning, but do check out some of the projects I have created. Hope you like them! 
 
- 
+ ⚡ Fun fact 
+- i love coffee
+- hobbies: gym, running, travel
+
 📫 How to reach me 
 - email: tangjiaxuan061002@gmail.com
 - linkedin: https://www.linkedin.com/in/jiaxuan-tang-ba383a264
-
-⚡ Fun fact 
-- i love coffee
-- hobbies: gym, running, travel
 
 
 <!--
