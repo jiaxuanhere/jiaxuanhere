@@ -1,7 +1,7 @@
 <h3> Hey there 👋 <h3>
 
  I'm Jiaxuan, an incoming NUS Computer Science undergraduate in Singapore \
- I am extremely passionate about creating projects that help make life easier and more interesting! \
+ I am enjoy creating projects that help make life easier and abit more interesting! \
  Currently still learning, but do check out some of the projects I have created. Hope you like them! 
 
  ⚡ Fun fact 
